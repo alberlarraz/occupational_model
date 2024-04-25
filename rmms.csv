@@ -1,0 +1,112 @@
+﻿ID;TYPE OF RMM;Proposed average nano-specific efficacy (%);position in list;x/1;Ponderation
+1;No engineering controls;0;0;0;1
+2;Low level;85;1;0.85;0.15
+3;Medium level;98;2;0.98;0.02
+4;High level;99.9;3;0.999;0.001
+5;Canopy hoods ;50;4;0.5;0.5
+6;Other receiving hoods;80;5;0.8;0.2
+7;Fixed capturing hoods ;90;6;0.9;0.1
+8;Movable capturing hoods;70;7;0.7;0.3
+9;On-tool extraction ;90;8;0.9;0.1
+10;Fume cupboard;90;9;0.9;0.1
+11;Fume cupboard-constant air volume cabinets;70;10;0.7;0.3
+12;Fume cupboard-variable air volume cabinets;90;11;0.9;0.1
+13;Fume cupboard-with automatic motorized guillotine;90;12;0.9;0.1
+14;Fume cupboard-without automatic motorized guillotine;70;13;0.7;0.3
+15; Horizontal/downward laminar flow booth;90;14;0.9;0.1
+16; Other enclosing  hoods ;90;15;0.9;0.1
+17;Glove bag (non-ventilated) ;99;16;0.99;0.01
+18; Glove bag (ventilated or kept under negative pressure) ;99.9;17;0.999;0.001
+19; Low specification glove box-single chamber, simple access doors, unsafe change glove, single HEPA filtered, manual cleaning / filter change ;98;18;0.98;0.02
+20;Medium specification glove box – two or more chambers, stainless steel, safe filter change, single or double HEPA filtered, interlocked air locks, manual cleaning / filter change, etc;99.97;19;0.9997;0.0003
+21;High specification glove box – see above, including negative pressure, air flow and filter condition continuously monitored, automatic emergency air extraction, waste disposal ports, etc ;99.99;20;0.9999;0.0001
+22;Wetting at the point of release;90;21;0.9;0.1
+23; Knockdown suppression ;30;22;0.3;0.7
+24;Substitution of processes or substances ;90;23;0.9;0.1
+25;Setting/design of operation;90;24;0.9;0.1
+26;Partial personal enclosure without ventilation ;30;25;0.3;0.7
+27;Partial personal enclosure with ventilation ;70;26;0.7;0.3
+28;Complete personal enclosure without ventilation ;70;27;0.7;0.3
+29;Complete personal enclosure with ventilation ;91;28;0.91;0.09
+30;Partial segregation without ventilation ;30;29;0.3;0.7
+31;Partial segregation with ventilation and filtration of recirculated air ;70;30;0.7;0.3
+32; Complete segregation without ventilation ;90;31;0.9;0.1
+33;Complete segregation with ventilation and filtration of recirculated air;90;32;0.9;0.1
+34;Cross-flow spray room;30;33;0.3;0.7
+35;Down-flow spray room ;80;34;0.8;0.2
+36; Downward laminar flow booth with no screens;80;35;0.8;0.2
+37; Downward laminar flow booth using partial screen ;85;36;0.85;0.15
+38;Downward laminar flow booth using partial screen fitted with glove ports;90;37;0.9;0.1
+39;Downward laminar flow booth using full screen fitted with glove ports ;99;38;0.99;0.01
+40;Laminar flow cabinets;0;39;0;1
+41;Class I;40;40;0.4;0.6
+42;Class II A1 ;50;41;0.5;0.5
+43;Class II A2 ;60;42;0.6;0.4
+44;Class II  B1 ;70;43;0.7;0.3
+45;Class II B2;90;44;0.9;0.1
+46;Class III;95;45;0.95;0.05
+47;With  5-10 air renewals (not recirculated), air filtered with H14, regular maintenance of filters, negative pressure (15-20 Pa);10;46;0.1;0.9
+48;Without  5-10 air renewals (not recirculated), air filtered with H14, regular maintenance of filters, negative pressure (15-20 Pa);50;47;0.5;0.5
+49;No respiratory protective equipment;0;0;0;1
+50;Surgical mask ;5;1;0.05;0.95
+51; P1/ FFP1;65;2;0.65;0.35
+52;P2 / FFP2 or N95;80;3;0.8;0.2
+53;P3/ FFP3 or N99 or P100;90;4;0.9;0.1
+54;P1;65;5;0.65;0.35
+55;P2 ;90;6;0.9;0.1
+56;P3;95;7;0.95;0.05
+57;P1;65;8;0.65;0.35
+58;P2  ;90;9;0.9;0.1
+59;P3 ;95;10;0.95;0.05
+60;TM1 ;80;11;0.8;0.2
+61;TM2  ;95;12;0.95;0.05
+62;TM3;97;13;0.97;0.03
+63;TH1  ;80;14;0.8;0.2
+64;TH2  ;95;15;0.95;0.05
+65;TH3;95;16;0.95;0.05
+66; Demand mode  ;85;17;0.85;0.15
+67;Continuous flow mode ;90;18;0.9;0.1
+68;Pressure demand or +pressure ;97;19;0.97;0.03
+69; Demand mode ;90;20;0.9;0.1
+70;Continuous flow mode ;95;21;0.95;0.05
+71;Pressure demand or +pressure ;99;22;0.99;0.01
+72;Continuous flow mode ;95;23;0.95;0.05
+73;Demand mode   ;85;24;0.85;0.15
+74;Demand mode ;95;25;0.95;0.05
+75; Pressure demand or +pressure ;98;26;0.98;0.02
+76;Demand mode  ;95;27;0.95;0.05
+77;Pressure demand or +pressur;98;28;0.98;0.02
+78;No ocular protection;0;0;0;1
+79;Mounted integrated glasses;95;1;0.95;0.05
+80;Universal mounted glasses;60;2;0.6;0.4
+81;No dermal protection (hands);0;0;0;1
+82;"Aggregate of various glove types below: Laminated film ; Thick nitrile (e.g. 0.11-0.15 mm); Neoprene (unsupported) ; Latex - natural rubber; Polyvinyl alcohol (PVA) supported ; Polyvinyl chloride (PVC) supported ; Butyl unsupported ; Viton/butyl unsupported (l)";85;1;0.85;0.15
+83;"Aggregate of various glove types below: Laminated film ; Thick nitrile (e.g. 0.11-0.15 mm); Neoprene (unsupported) ; Latex - natural rubber; Polyvinyl alcohol (PVA) supported ; Polyvinyl chloride (PVC) supported ; Butyl unsupported ; Viton/butyl unsupported (s)";90;2;0.9;0.1
+84;Butyl ;93.5;3;0.935;0.065
+85;Latex ;98.5;4;0.985;0.015
+86;Neoprene ;93.3;5;0.933;0.067
+87;Nitrile;97;6;0.97;0.03
+88;Nitrile Thick ;97.2;7;0.972;0.028
+89;Nitrile Thin ;88.4;8;0.884;0.116
+90;Polyvinyl chloride ;93.9;9;0.939;0.061
+91;Vinyl ;100;10;1;0
+92;Double glove use;100;11;1;0
+93;EN ISO 374-1/ Type A;100;12;1;0
+94;EN ISO 374-1/ Type B or EN ISO 374-1/Type C;50;13;0.5;0.5
+95;No dermal protection (body);0;0;0;1
+96;Type 1: Gas (s/l);98;1;0.98;0.02
+97;Type 2: Non - gas tight (s/l);97;2;0.97;0.03
+98;Type 3: Liquid (jet) tight (s/l);95;3;0.95;0.05
+99;Type 4: Spray tight  (s/l);90;4;0.9;0.1
+100;Type 5: Particle / fibre dust protection (s/l);90;5;0.9;0.1
+101;Type 6: Limited spray tight / small splashes (s/l);85;6;0.85;0.15
+102;Self-ventilated / overpressure suit (Cat III, Type 1) (s/l) ;99.9;7;0.999;0.001
+103;Insulated Coats and Pants  (s/l);90;8;0.9;0.1
+104;Sleeves and PVC Aprons (s/l);95;9;0.95;0.05
+105;Chemical Splash Suit  (s/l);95;10;0.95;0.05
+106;Ventilated / Overpressure suits  (s/l);99.9;11;0.999;0.001
+107;Woven fabrics (e.g. labcoats) (s);40;12;0.4;0.6
+108;Woven fabrics (e.g. labcoats) (l);25;13;0.25;0.75
+109;Non-woven fabrics (e.g. polypropylene) (s);70;14;0.7;0.3
+110;Non-woven fabrics (e.g. polypropylene) (l);50;15;0.5;0.5
+111;Coated fabrics (s/l);95;16;0.95;0.05
